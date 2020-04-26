@@ -3,7 +3,7 @@ A simple and considerably uncomplete Tetris game, made with C++ and SDL2.
 This by no means is a professional project, neither is intended to be. I just got bored.
 
 # Bugs
-- Occasionally, when tetromino is just touched the ground, if user presses down arrow key at the wrong time, tetrmoni migh go one cell below the bottom border.
+- Occasionally, when tetromino is just touched the ground, if user presses down arrow key at the wrong time, tetrmino migh go one cell below the bottom border.
 
 # Issues
 - Lots of unnecessary individual texture loading is present, to make it more tidy, related textures should be combined together as a sprite sheet.

@@ -1,6 +1,6 @@
 # About
 A simple and considerably uncomplete Tetris game, made with C++ and SDL2. 
-This by no means is a professional project, neither is intended to be.
+This by no means is a professional project, neither is intended to be. I just got bored.
 
 # Bugs
 - Occasionally, when tetromino is just touched the ground, if user presses down arrow key at the wrong time, tetrmoni migh go one cell below the bottom border.
